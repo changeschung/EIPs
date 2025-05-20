@@ -1,8 +1,9 @@
 ---
 title: <The EIP title is a few words, not a complete sentence>
 description: <Description is one full (short) sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <URL>
+author: <a comma separated list of the author's or authors' name + GitHub username (Daniya Mehdi, @Changeschung), or name and email (in angle brackets).  Example, Daniyal Mehdi (@Changeschung), Daniyal Mehdi<foo@bar.com>, Daniyal Mehdi (@Changeschung) and GitHubUsername (@GitHubUsername)>
+discussions-to: <![Screenshot_20250520-103255](https://github.com/user-attachments/assets/bcb76d42-8a31-4988-b4b4-0a22d8f46a7d)
+https://github.com/ethereum/EIPs/actions/workflows/ci.yml/badge.svg?branch=Pandapip1-bib&event=pull_request_target>
 status: Draft
 type: <Standards Track, Meta, or Informational>
 category: <Core, Networking, Interface, or ERC> # Only required for Standards Track. Otherwise, remove this field.
